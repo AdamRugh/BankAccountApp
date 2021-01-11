@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BankAccountApp", "BankAccountApp\BankAccountApp.pyproj", "{029499FD-7C2A-4BEA-B6F6-C3AB9F949294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029499FD-7C2A-4BEA-B6F6-C3AB9F949294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029499FD-7C2A-4BEA-B6F6-C3AB9F949294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFEAA03D-6021-42DB-A188-9935E1291798}
+	EndGlobalSection
+EndGlobal
